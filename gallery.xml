@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="FFFFFF"
+	galleryStyle="MODERN"
+	frameWidth="0"
+	thumbColumns="5"
+	showOpenButton="false"
+	showFullscreenButton="false"
+	imagePreloading="NEXT"
+	showThumbLoadBar="true"
+	showThumbVisited="false"
+	thumbDropShadow="true"
+	doThumbPopOut="true"
+	thumbFrameStyle="NONE"
+	showImageNumber="true"
+	autoPlayOnLoad="true"
+	showAutoPlayStatus="false"
+	autoPlayThumbs="false"
+	goNextOnAutoPlay="true"
+	backgroundTransparent="true"
+	thumbRows="1"
+	thumbPosition="BOTTOM"
+	enableLooping="true"
+	captionBackOpacity="0.5"
+	captionPadding="5"
+	captionPosition="OVERLAY_BOTTOM"
+	imageNumberFontSize="11"
+	captionDropShadow="true"
+	indexPageName="galery.html"
+	galleryWidth="600px"
+	captionWidth="200"
+	changeCaptionOnHover="true"
+	changeImageOnHover="false"
+
+>
+  <image imageURL="images/01 (1) - Copy.JPG"
+	thumbURL="thumbs/01 (1) - Copy.JPG"
+	linkURL="images/01 (1) - Copy.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Krasnal]]></caption>
+  </image>
+  
+    <image imageURL="images/IMG_4386_logo.JPG"
+	thumbURL="thumbs/IMG_4386_logo.JPG"
+	linkURL="images/IMG_4386_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Krasnal "Chmurka"]]></caption>
+  </image>
+
+  <image imageURL="images/IMG_8989 - Copy - Copy.JPG"
+	thumbURL="thumbs/IMG_8989 - Copy - Copy.JPG"
+	linkURL="images/IMG_8989 - Copy - Copy.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Myszka szara]]></caption>
+  </image>
+  
+    <image imageURL="images/IMG_9163_logo.JPG"
+	thumbURL="thumbs/IMG_9163_logo.JPG"
+	linkURL="images/IMG_9163_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA["Myszka"]]></caption>
+  </image>
+  
+  <image imageURL="images/06d-001.JPG"
+	thumbURL="thumbs/06d-001.JPG"
+	linkURL="images/06d-001.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka]]></caption>
+  </image>
+  
+    <image imageURL="images/2013-07 - szydelkowe3_logo.jpg"
+	thumbURL="thumbs/2013-07 - szydelkowe3_logo.jpg"
+	linkURL="images/2013-07 - szydelkowe3_logo.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  
+    <image imageURL="images/101_0031_logo.JPG"
+	thumbURL="thumbs/101_0031_logo.JPG"
+	linkURL="images/101_0031_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA["Sowa"]]></caption>
+  </image>
+  
+  <image imageURL="images/02d.jpg"
+	thumbURL="thumbs/02d.jpg"
+	linkURL="images/02d.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Piesek]]></caption>
+  </image>
+  
+    <image imageURL="images/_MG_4400.CR2_logo.JPG"
+	thumbURL="thumbs/_MG_4400.CR2_logo.JPG"
+	linkURL="images/_MG_4400.CR2_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka "Dino"]]></caption>
+  </image>
+  
+  <image imageURL="images/IMG_8161-001.JPG"
+	thumbURL="thumbs/IMG_8161-001.JPG"
+	linkURL="images/IMG_8161-001.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Kurczaczek]]></caption>
+  </image>
+  
+    <image imageURL="images/IMG_0796.JPG"
+	thumbURL="thumbs/IMG_0796.JPG"
+	linkURL="images/IMG_0796.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka i domek ślimaka]]></caption>
+  </image>
+  
+  <image imageURL="images/10d(1).JPG"
+	thumbURL="thumbs/10d(1).JPG"
+	linkURL="images/10d(1).JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Kłapouszek]]></caption>
+  </image>
+  
+    <image imageURL="images/IMG_6989_logo.JPG"
+	thumbURL="thumbs/IMG_6989_logo.JPG"
+	linkURL="images/IMG_6989_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA["Kłapouszek"]]></caption>
+  </image>
+  
+    <image imageURL="images/IMG_6984_logo.JPG"
+	thumbURL="thumbs/IMG_6984_logo.JPG"
+	linkURL="images/IMG_6984_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA["Kłapouszek"]]></caption>
+  </image>
+ 
+  <image imageURL="images/_MG_2379.CR2.jpg"
+	thumbURL="thumbs/_MG_2379.CR2.jpg"
+	linkURL="images/_MG_2379.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Myszka różowa]]></caption>
+  </image>
+  
+    <image imageURL="images/IMG_2394_logo.JPG"
+	thumbURL="thumbs/IMG_2394_logo.JPG"
+	linkURL="images/IMG_2394_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA["Bowie Baby"]]></caption>
+  </image>
+  
+  <image imageURL="images/_MG_2387.CR2.jpg"
+	thumbURL="thumbs/_MG_2387.CR2.jpg"
+	linkURL="images/_MG_2387.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Opaska kwiatek]]></caption>
+  </image>
+  
+    <image imageURL="images/IMG_9160_logo.JPG"
+	thumbURL="thumbs/IMG_9160_logo.JPG"
+	linkURL="images/IMG_9160_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Opaska]]></caption>
+  </image>
+  
+  <image imageURL="images/_MG_2429.CR2.jpg"
+	thumbURL="thumbs/_MG_2429.CR2.jpg"
+	linkURL="images/_MG_2429.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Misiaczek pilotka (gruba)]]></caption>
+  </image>
+  <image imageURL="images/_MG_2777.CR2.jpg"
+	thumbURL="thumbs/_MG_2777.CR2.jpg"
+	linkURL="images/_MG_2777.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka pilotka biała (gruba)]]></caption>
+  </image>
+  <image imageURL="images/_MG_4723.CR2.jpg"
+	thumbURL="thumbs/_MG_4723.CR2.jpg"
+	linkURL="images/_MG_4723.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Żabka (letnia)]]></caption>
+  </image>
+  
+  <image imageURL="images/_MG_2480.CR2.jpg"
+	thumbURL="thumbs/_MG_2480.CR2.jpg"
+	linkURL="images/_MG_2480.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapka Żabka]]></caption>
+  </image>
+  <image imageURL="images/_MG_2767.CR2.jpg"
+	thumbURL="thumbs/_MG_2767.CR2.jpg"
+	linkURL="images/_MG_2767.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka pilotka kolorowa (gruba)]]></caption>
+  </image>
+  
+  <image imageURL="images/_MG_2804.CR2.jpg"
+	thumbURL="thumbs/_MG_2804.CR2.jpg"
+	linkURL="images/_MG_2804.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Krasnal]]></caption>
+  </image>
+  <image imageURL="images/_MG_2459.CR2.jpg"
+	thumbURL="thumbs/_MG_2459.CR2.jpg"
+	linkURL="images/_MG_2459.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka z różowym kwiatuszkiem]]></caption>
+  </image>
+  
+  <image imageURL="images/IMG_0799.JPG"
+	thumbURL="thumbs/IMG_0799.JPG"
+	linkURL="images/IMG_0799.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Truskawka]]></caption>
+  </image>
+  <image imageURL="images/IMG_0755.JPG"
+	thumbURL="thumbs/IMG_0755.JPG"
+	linkURL="images/IMG_0755.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka i majteczki Zajączek]]></caption>
+  </image>
+  <image imageURL="images/IMG_0793.JPG"
+	thumbURL="thumbs/IMG_0793.JPG"
+	linkURL="images/IMG_0793.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Zielony komplecik - czapeczka i kokon]]></caption>
+  </image>
+
+  <image imageURL="images/IMG_1440_logo.JPG"
+	thumbURL="thumbs/IMG_1440_logo.JPG"
+	linkURL="images/IMG_1440_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1447_logo2.JPG"
+	thumbURL="thumbs/IMG_1447_logo2.JPG"
+	linkURL="images/IMG_1447_logo2.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1573_logo.JPG"
+	thumbURL="thumbs/IMG_1573_logo.JPG"
+	linkURL="images/IMG_1573_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1384899_10202090736656033_670210342_n.JPG"
+	thumbURL="thumbs/1384899_10202090736656033_670210342_n.JPG"
+	linkURL="images/1384899_10202090736656033_670210342_n.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1644_logo.JPG"
+	thumbURL="thumbs/IMG_1644_logo.JPG"
+	linkURL="images/IMG_1644_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1749_logo.JPG"
+	thumbURL="thumbs/IMG_1749_logo.JPG"
+	linkURL="images/IMG_1749_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1753_logo.JPG"
+	thumbURL="thumbs/IMG_1753_logo.JPG"
+	linkURL="images/IMG_1753_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1813_logo.JPG"
+	thumbURL="thumbs/IMG_1813_logo.JPG"
+	linkURL="images/IMG_1813_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1828_logo.JPG"
+	thumbURL="thumbs/IMG_1828_logo.JPG"
+	linkURL="images/IMG_1828_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1854_logo.JPG"
+	thumbURL="thumbs/IMG_1854_logo.JPG"
+	linkURL="images/IMG_1854_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2351_logo.JPG"
+	thumbURL="thumbs/IMG_2351_logo.JPG"
+	linkURL="images/IMG_2351_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2359_logo.JPG"
+	thumbURL="thumbs/IMG_2359_logo.JPG"
+	linkURL="images/IMG_2359_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+
+
+  <image imageURL="images/IMG_2420_logo.JPG"
+	thumbURL="thumbs/IMG_2420_logo.JPG"
+	linkURL="images/IMG_2420_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2422_logo.JPG"
+	thumbURL="thumbs/IMG_2422_logo.JPG"
+	linkURL="images/IMG_2422_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="images/IMG_0928.JPG"
+	thumbURL="thumbs/IMG_0928.JPG"
+	linkURL="images/IMG_0928.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Komplet ogrodniczki i berecik]]></caption>
+  </image>
+  <image imageURL="images/IMG_0802.JPG"
+	thumbURL="thumbs/IMG_0802.JPG"
+	linkURL="images/IMG_0802.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Lila]]></caption>
+  </image>
+  <image imageURL="images/IMG_0803.JPG"
+	thumbURL="thumbs/IMG_0803.JPG"
+	linkURL="images/IMG_0803.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Lila]]></caption>
+  </image>
+  <image imageURL="images/IMG_0823.JPG"
+	thumbURL="thumbs/IMG_0823.JPG"
+	linkURL="images/IMG_0823.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Żuczek]]></caption>
+  </image>
+  <image imageURL="images/IMG_0759.JPG"
+	thumbURL="thumbs/IMG_0759.JPG"
+	linkURL="images/IMG_0759.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka i spodenki Mickey Mouse]]></caption>
+  </image>
+  <image imageURL="images/IMG_0772.JPG"
+	thumbURL="thumbs/IMG_0772.JPG"
+	linkURL="images/IMG_0772.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka i majteczki z guzikiem]]></caption>
+  </image>
+  <image imageURL="images/IMG_0403.JPG"
+	thumbURL="thumbs/IMG_0403.JPG"
+	linkURL="images/IMG_0403.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Komplecik Króliczek - czapeczka i majteczki (grube)]]></caption>
+  </image>
+  <image imageURL="images/IMG_0776.JPG"
+	thumbURL="thumbs/IMG_0776.JPG"
+	linkURL="images/IMG_0776.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapka pilotka i podkolanówki]]></caption>
+  </image>
+  <image imageURL="images/IMG_0789.JPG"
+	thumbURL="thumbs/IMG_0789.JPG"
+	linkURL="images/IMG_0789.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapka z kwiatem i podkolanówki]]></caption>
+  </image>
+  <image imageURL="images/IMG_5035.JPG"
+	thumbURL="thumbs/IMG_5035.JPG"
+	linkURL="images/IMG_5035.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Kolorowe bambosze]]></caption>
+  </image>
+  
+  
+  <image imageURL="images/IMG_7572_logo.JPG"
+	thumbURL="thumbs/IMG_7572_logo.JPG"
+	linkURL="images/IMG_7572_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7728_logo.JPG"
+	thumbURL="thumbs/IMG_7728_logo.JPG"
+	linkURL="images/IMG_7728_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7737_logo.JPG"
+	thumbURL="thumbs/IMG_7737_logo.JPG"
+	linkURL="images/IMG_7737_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7739_logo.JPG"
+	thumbURL="thumbs/IMG_7739_logo.JPG"
+	linkURL="images/IMG_7739_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7745_logo.JPG"
+	thumbURL="thumbs/IMG_7745_logo.JPG"
+	linkURL="images/IMG_7745_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7752_logo.JPG"
+	thumbURL="thumbs/IMG_7752_logo.JPG"
+	linkURL="images/IMG_7752_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8987_logo.JPG"
+	thumbURL="thumbs/IMG_8987_logo.JPG"
+	linkURL="images/IMG_8987_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_9035_logo.JPG"
+	thumbURL="thumbs/IMG_9035_logo.JPG"
+	linkURL="images/IMG_9035_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_9081_logo.JPG"
+	thumbURL="thumbs/IMG_9081_logo.JPG"
+	linkURL="images/IMG_9081_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+
+
+  <image imageURL="images/IMG_1438_logo.JPG"
+	thumbURL="thumbs/IMG_1438_logo.JPG"
+	linkURL="images/IMG_1438_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="images/101_0029_logo.JPG"
+	thumbURL="thumbs/101_0029_logo.JPG"
+	linkURL="images/101_0029_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="images/101_0033_logo.JPG"
+	thumbURL="thumbs/101_0033_logo.JPG"
+	linkURL="images/101_0033_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/101_0037_logo.JPG"
+	thumbURL="thumbs/101_0037_logo.JPG"
+	linkURL="images/101_0037_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/101_0040_logo.JPG"
+	thumbURL="thumbs/101_0040_logo.JPG"
+	linkURL="images/101_0040_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hania - 11 miesięcy6_logo2.JPG"
+	thumbURL="thumbs/Hania - 11 miesięcy6_logo2.JPG"
+	linkURL="images/Hania - 11 miesięcy6_logo2.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hania - 11 miesięcy8_logo.JPG"
+	thumbURL="thumbs/Hania - 11 miesięcy8_logo.JPG"
+	linkURL="images/Hania - 11 miesięcy8_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_9813_logo.JPG"
+	thumbURL="thumbs/IMG_9813_logo.JPG"
+	linkURL="images/IMG_9813_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_9814_logo.JPG"
+	thumbURL="thumbs/IMG_9814_logo.JPG"
+	linkURL="images/IMG_9814_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1576_logo.JPG"
+	thumbURL="thumbs/IMG_1576_logo.JPG"
+	linkURL="images/IMG_1576_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kolaże_logo.JPG"
+	thumbURL="thumbs/Kolaże_logo.JPG"
+	linkURL="images/Kolaże_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1647_logo.JPG"
+	thumbURL="thumbs/IMG_1647_logo.JPG"
+	linkURL="images/IMG_1647_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="images/IMG_1752_logo.JPG"
+	thumbURL="thumbs/IMG_1752_logo.JPG"
+	linkURL="images/IMG_1752_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1755_logo.JPG"
+	thumbURL="thumbs/IMG_1755_logo.JPG"
+	linkURL="images/IMG_1755_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1758_logo.JPG"
+	thumbURL="thumbs/IMG_1758_logo.JPG"
+	linkURL="images/IMG_1758_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1759_logo.JPG"
+	thumbURL="thumbs/IMG_1759_logo.JPG"
+	linkURL="images/IMG_1759_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1778_logo.JPG"
+	thumbURL="thumbs/IMG_1778_logo.JPG"
+	linkURL="images/IMG_1778_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/balwanek_logo.JPG"
+	thumbURL="thumbs/balwanek_logo.JPG"
+	linkURL="images/balwanek_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1819_logo.JPG"
+	thumbURL="thumbs/IMG_1819_logo.JPG"
+	linkURL="images/IMG_1819_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1821_logo.JPG"
+	thumbURL="thumbs/IMG_1821_logo.JPG"
+	linkURL="images/IMG_1821_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/kolaz_kwiatki_logo.JPG"
+	thumbURL="thumbs/kolaz_kwiatki_logo.JPG"
+	linkURL="images/kolaz_kwiatki_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1824_logo.JPG"
+	thumbURL="thumbs/IMG_1824_logo.JPG"
+	linkURL="images/IMG_1824_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1852_logo.JPG"
+	thumbURL="thumbs/IMG_1852_logo.JPG"
+	linkURL="images/IMG_1852_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sowa_komplet_logo.JPG"
+	thumbURL="thumbs/sowa_komplet_logo.JPG"
+	linkURL="images/sowa_komplet_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ocieplacze_logo.JPG"
+	thumbURL="thumbs/ocieplacze_logo.JPG"
+	linkURL="images/ocieplacze_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2298_logo.JPG"
+	thumbURL="thumbs/IMG_2298_logo.JPG"
+	linkURL="images/IMG_2298_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2346_logo.JPG"
+	thumbURL="thumbs/IMG_2346_logo.JPG"
+	linkURL="images/IMG_2346_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2354_logo.JPG"
+	thumbURL="thumbs/IMG_2354_logo.JPG"
+	linkURL="images/IMG_2354_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2397_logo.JPG"
+	thumbURL="thumbs/IMG_2397_logo.JPG"
+	linkURL="images/IMG_2397_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2403_logo.JPG"
+	thumbURL="thumbs/IMG_2403_logo.JPG"
+	linkURL="images/IMG_2403_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2404_logo.JPG"
+	thumbURL="thumbs/IMG_2404_logo.JPG"
+	linkURL="images/IMG_2404_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2406_logo.JPG"
+	thumbURL="thumbs/IMG_2406_logo.JPG"
+	linkURL="images/IMG_2406_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2408_logo.JPG"
+	thumbURL="thumbs/IMG_2408_logo.JPG"
+	linkURL="images/IMG_2408_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2411_logo.JPG"
+	thumbURL="thumbs/IMG_2411_logo.JPG"
+	linkURL="images/IMG_2411_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2413_logo.JPG"
+	thumbURL="thumbs/IMG_2413_logo.JPG"
+	linkURL="images/IMG_2413_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2415_logo.JPG"
+	thumbURL="thumbs/IMG_2415_logo.JPG"
+	linkURL="images/IMG_2415_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  
+      <image imageURL="images/IMG_20130719_125158_logo.jpg"
+	thumbURL="thumbs/IMG_20130719_125158_logo.jpg"
+	linkURL="images/IMG_20130719_125158_logo.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130719_125609_logo.jpg"
+	thumbURL="thumbs/IMG_20130719_125609_logo.jpg"
+	linkURL="images/IMG_20130719_125609_logo.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130719_130307_logo.jpg"
+	thumbURL="thumbs/IMG_20130719_130307_logo.jpg"
+	linkURL="images/IMG_20130719_130307_logo.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/krasnal-rozowy-na-drutach.jpg"
+	thumbURL="thumbs/krasnal-rozowy-na-drutach.jpg"
+	linkURL="images/krasnal-rozowy-na-drutach.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="images/Czapeczki1.jpg"
+	thumbURL="thumbs/Czapeczki1.jpg"
+	linkURL="images/Czapeczki1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="images/IMG_0956.JPG"
+	thumbURL="thumbs/IMG_0956.JPG"
+	linkURL="images/IMG_0956.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1010_logo.jpg"
+	thumbURL="thumbs/IMG_1010_logo.jpg"
+	linkURL="images/IMG_1010_logo.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1013_logo.jpg"
+	thumbURL="thumbs/IMG_1013_logo.jpg"
+	linkURL="images/IMG_1013_logo.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1016_logo.jpg"
+	thumbURL="thumbs/IMG_1016_logo.jpg"
+	linkURL="images/IMG_1016_logo.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6025.JPG"
+	thumbURL="thumbs/IMG_6025.JPG"
+	linkURL="images/IMG_6025.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6232_logo.jpg"
+	thumbURL="thumbs/IMG_6232_logo.jpg"
+	linkURL="images/IMG_6232_logo.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6264_logo.jpg"
+	thumbURL="thumbs/IMG_6264_logo.jpg"
+	linkURL="images/IMG_6264_logo.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  
+  
+  
+  
+  <image imageURL="images/IMG_0841.JPG"
+	thumbURL="thumbs/IMG_0841.JPG"
+	linkURL="images/IMG_0841.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Komplet Pszczółki - czapeczka i buciki]]></caption>
+  </image>
+  <image imageURL="images/IMG_0724.JPG"
+	thumbURL="thumbs/IMG_0724.JPG"
+	linkURL="images/IMG_0724.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Komplecik Żabka - czapeczka i buciki]]></caption>
+  </image>
+  <image imageURL="images/IMG_0730.JPG"
+	thumbURL="thumbs/IMG_0730.JPG"
+	linkURL="images/IMG_0730.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Komplecik - czapeczka i buciki]]></caption>
+  </image>
+  <image imageURL="images/IMG_0762.JPG"
+	thumbURL="thumbs/IMG_0762.JPG"
+	linkURL="images/IMG_0762.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Truskawka (letnia)]]></caption>
+  </image>
+  <image imageURL="images/IMG_0767.JPG"
+	thumbURL="thumbs/IMG_0767.JPG"
+	linkURL="images/IMG_0767.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Szarotka (letnia)]]></caption>
+  </image>
+  <image imageURL="images/IMG_0532.jpg"
+	thumbURL="thumbs/IMG_0532.jpg"
+	linkURL="images/IMG_0532.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka "Hello Kitty"]]></caption>
+  </image>
+  <image imageURL="images/IMG_0696.JPG"
+	thumbURL="thumbs/IMG_0696.JPG"
+	linkURL="images/IMG_0696.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka ]]></caption>
+  </image>
+  <image imageURL="images/IMG_0700.JPG"
+	thumbURL="thumbs/IMG_0700.JPG"
+	linkURL="images/IMG_0700.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka ]]></caption>
+  </image>
+  <image imageURL="images/IMG_0702.JPG"
+	thumbURL="thumbs/IMG_0702.JPG"
+	linkURL="images/IMG_0702.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka ]]></caption>
+  </image>
+  <image imageURL="images/IMG_0714.JPG"
+	thumbURL="thumbs/IMG_0714.JPG"
+	linkURL="images/IMG_0714.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka ]]></caption>
+  </image>
+  <image imageURL="images/IMG_0705.JPG"
+	thumbURL="thumbs/IMG_0705.JPG"
+	linkURL="images/IMG_0705.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka ]]></caption>
+  </image>
+  <image imageURL="images/IMG_0698.JPG"
+	thumbURL="thumbs/IMG_0698.JPG"
+	linkURL="images/IMG_0698.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Miś szara]]></caption>
+  </image>
+  <image imageURL="images/IMG_0694.JPG"
+	thumbURL="thumbs/IMG_0694.JPG"
+	linkURL="images/IMG_0694.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Miś brązowa]]></caption>
+  </image>
+  <image imageURL="images/1061088_10200145917193033_1534120505_n.jpg"
+	thumbURL="thumbs/1061088_10200145917193033_1534120505_n.jpg"
+	linkURL="images/1061088_10200145917193033_1534120505_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Kolorowy krasnalowy zawrót głowy]]></caption>
+  </image>
+  <image imageURL="images/2013-06 - szydelkowe.jpg"
+	thumbURL="thumbs/2013-06 - szydelkowe.jpg"
+	linkURL="images/2013-06 - szydelkowe.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapka Krasnal]]></caption>
+  </image>
+  <image imageURL="images/2013-06 - szydelkowe1.jpg"
+	thumbURL="thumbs/2013-06 - szydelkowe1.jpg"
+	linkURL="images/2013-06 - szydelkowe1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapka Krasnal]]></caption>
+  </image>
+  <image imageURL="images/2013-06 - szydelkowe2.jpg"
+	thumbURL="thumbs/2013-06 - szydelkowe2.jpg"
+	linkURL="images/2013-06 - szydelkowe2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapka Krasnal]]></caption>
+  </image>
+  <image imageURL="images/IMG_0713.JPG"
+	thumbURL="thumbs/IMG_0713.JPG"
+	linkURL="images/IMG_0713.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Krasnal]]></caption>
+  </image>
+  <image imageURL="images/IMG_0555.jpg"
+	thumbURL="thumbs/IMG_0555.jpg"
+	linkURL="images/IMG_0555.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Krasnal]]></caption>
+  </image>
+  <image imageURL="images/IMG_0826.JPG"
+	thumbURL="thumbs/IMG_0826.JPG"
+	linkURL="images/IMG_0826.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapka Krasnal]]></caption>
+  </image>
+  <image imageURL="images/IMG_0824.JPG"
+	thumbURL="thumbs/IMG_0824.JPG"
+	linkURL="images/IMG_0824.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0822.JPG"
+	thumbURL="thumbs/IMG_0822.JPG"
+	linkURL="images/IMG_0822.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapka Krasnal]]></caption>
+  </image>
+  <image imageURL="images/IMG_0719.JPG"
+	thumbURL="thumbs/IMG_0719.JPG"
+	linkURL="images/IMG_0719.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka z różowym kwiatuszkiem]]></caption>
+  </image>
+  <image imageURL="images/IMG_0359.JPG"
+	thumbURL="thumbs/IMG_0359.JPG"
+	linkURL="images/IMG_0359.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka z różowym kwiatuszkiem]]></caption>
+  </image>
+  <image imageURL="images/IMG_2283.JPG"
+	thumbURL="thumbs/IMG_2283.JPG"
+	linkURL="images/IMG_2283.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka z zielonym kwiatuszkiem]]></caption>
+  </image>
+  <image imageURL="images/557516_426623927380914_1686132058_n.jpg"
+	thumbURL="thumbs/557516_426623927380914_1686132058_n.jpg"
+	linkURL="images/557516_426623927380914_1686132058_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/388711_548740281833066_1211501745_n.jpg"
+	thumbURL="thumbs/388711_548740281833066_1211501745_n.jpg"
+	linkURL="images/388711_548740281833066_1211501745_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Modniś beżowa]]></caption>
+  </image>
+  <image imageURL="images/IMG_2285.JPG"
+	thumbURL="thumbs/IMG_2285.JPG"
+	linkURL="images/IMG_2285.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Biedronka]]></caption>
+  </image>
+  <image imageURL="images/IMG_2286.JPG"
+	thumbURL="thumbs/IMG_2286.JPG"
+	linkURL="images/IMG_2286.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Piesek]]></caption>
+  </image>
+  <image imageURL="images/IMG_2287.JPG"
+	thumbURL="thumbs/IMG_2287.JPG"
+	linkURL="images/IMG_2287.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Kurczaczek]]></caption>
+  </image>
+  <image imageURL="images/IMG_2288.JPG"
+	thumbURL="thumbs/IMG_2288.JPG"
+	linkURL="images/IMG_2288.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka ]]></caption>
+  </image>
+  <image imageURL="images/IMG_2290.JPG"
+	thumbURL="thumbs/IMG_2290.JPG"
+	linkURL="images/IMG_2290.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Zajączek]]></caption>
+  </image>
+  <image imageURL="images/IMG_8352-001.JPG"
+	thumbURL="thumbs/IMG_8352-001.JPG"
+	linkURL="images/IMG_8352-001.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Myszka szara]]></caption>
+  </image>
+  <image imageURL="images/IMG_8344-001.JPG"
+	thumbURL="thumbs/IMG_8344-001.JPG"
+	linkURL="images/IMG_8344-001.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka]]></caption>
+  </image>
+  <image imageURL="images/IMG_8347-001.JPG"
+	thumbURL="thumbs/IMG_8347-001.JPG"
+	linkURL="images/IMG_8347-001.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka pilotka]]></caption>
+  </image>
+  <image imageURL="images/IMG_8348-001.JPG"
+	thumbURL="thumbs/IMG_8348-001.JPG"
+	linkURL="images/IMG_8348-001.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka]]></caption>
+  </image>
+  <image imageURL="images/IMG_0827.JPG"
+	thumbURL="thumbs/IMG_0827.JPG"
+	linkURL="images/IMG_0827.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Toczek Owieczka]]></caption>
+  </image>
+  <image imageURL="images/IMG_0536.jpg"
+	thumbURL="thumbs/IMG_0536.jpg"
+	linkURL="images/IMG_0536.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka "Modnisia" robiona na drutach]]></caption>
+  </image>
+  <image imageURL="images/IMG_0550.jpg"
+	thumbURL="thumbs/IMG_0550.jpg"
+	linkURL="images/IMG_0550.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Misiak pilotka]]></caption>
+  </image>
+  <image imageURL="images/IMG_0350.JPG"
+	thumbURL="thumbs/IMG_0350.JPG"
+	linkURL="images/IMG_0350.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Pszczółka]]></caption>
+  </image>
+  <image imageURL="images/IMG_0351.JPG"
+	thumbURL="thumbs/IMG_0351.JPG"
+	linkURL="images/IMG_0351.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Autko]]></caption>
+  </image>
+  <image imageURL="images/IMG_0355.JPG"
+	thumbURL="thumbs/IMG_0355.JPG"
+	linkURL="images/IMG_0355.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Żabka ]]></caption>
+  </image>
+  <image imageURL="images/IMG_0357.JPG"
+	thumbURL="thumbs/IMG_0357.JPG"
+	linkURL="images/IMG_0357.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Uszatek pilotka]]></caption>
+  </image>
+  <image imageURL="images/2013-06 - szydelkowe3.jpg"
+	thumbURL="thumbs/2013-06 - szydelkowe3.jpg"
+	linkURL="images/2013-06 - szydelkowe3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapka pilotka granatowa]]></caption>
+  </image>
+  <image imageURL="images/IMG_0347.JPG"
+	thumbURL="thumbs/IMG_0347.JPG"
+	linkURL="images/IMG_0347.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Zajączek]]></caption>
+  </image>
+  <image imageURL="images/IMG_0407.JPG"
+	thumbURL="thumbs/IMG_0407.JPG"
+	linkURL="images/IMG_0407.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka (gruba)]]></caption>
+  </image>
+  <image imageURL="images/IMG_0409.JPG"
+	thumbURL="thumbs/IMG_0409.JPG"
+	linkURL="images/IMG_0409.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Zajączek (gruba)]]></caption>
+  </image>
+  <image imageURL="images/IMG_0418.JPG"
+	thumbURL="thumbs/IMG_0418.JPG"
+	linkURL="images/IMG_0418.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Pszczółka]]></caption>
+  </image>
+  <image imageURL="images/IMG_0509.JPG"
+	thumbURL="thumbs/IMG_0509.JPG"
+	linkURL="images/IMG_0509.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Sówka]]></caption>
+  </image>
+  <image imageURL="images/IMG_0513.JPG"
+	thumbURL="thumbs/IMG_0513.JPG"
+	linkURL="images/IMG_0513.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Uszatek brązowa pilotka]]></caption>
+  </image>
+  <image imageURL="images/_MG_2754.CR2.jpg"
+	thumbURL="thumbs/_MG_2754.CR2.jpg"
+	linkURL="images/_MG_2754.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Autko (gruba)]]></caption>
+  </image>
+  <image imageURL="images/_MG_2764.CR2.jpg"
+	thumbURL="thumbs/_MG_2764.CR2.jpg"
+	linkURL="images/_MG_2764.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka z pomponem kolorowa (gruba)]]></caption>
+  </image>
+  <image imageURL="images/_MG_2759.CR2.jpg"
+	thumbURL="thumbs/_MG_2759.CR2.jpg"
+	linkURL="images/_MG_2759.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka z pomponem brązowa (gruba)]]></caption>
+  </image>
+  <image imageURL="images/_MG_2950.CR2.jpg"
+	thumbURL="thumbs/_MG_2950.CR2.jpg"
+	linkURL="images/_MG_2950.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Maskotka Kurczaczek]]></caption>
+  </image>
+  <image imageURL="images/_MG_3451.CR2.JPG"
+	thumbURL="thumbs/_MG_3451.CR2.JPG"
+	linkURL="images/_MG_3451.CR2.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Maskotka Kurczaczek]]></caption>
+  </image>
+  <image imageURL="images/_MG_3452.CR2.JPG"
+	thumbURL="thumbs/_MG_3452.CR2.JPG"
+	linkURL="images/_MG_3452.CR2.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Osłonka na jajko - Kurka]]></caption>
+  </image>
+  <image imageURL="images/_MG_3450.CR2.jpg"
+	thumbURL="thumbs/_MG_3450.CR2.jpg"
+	linkURL="images/_MG_3450.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Maskotka Małpka]]></caption>
+  </image>
+  <image imageURL="images/_MG_3454.CR2.JPG"
+	thumbURL="thumbs/_MG_3454.CR2.JPG"
+	linkURL="images/_MG_3454.CR2.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Mały koszyczek]]></caption>
+  </image>
+  <image imageURL="images/IMG_0419.JPG"
+	thumbURL="thumbs/IMG_0419.JPG"
+	linkURL="images/IMG_0419.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Etui na telefon]]></caption>
+  </image>
+  <image imageURL="images/555063_548439071863187_561596519_n.jpg"
+	thumbURL="thumbs/555063_548439071863187_561596519_n.jpg"
+	linkURL="images/555063_548439071863187_561596519_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Ręcznie robiona okładka]]></caption>
+  </image>
+  <image imageURL="images/555145_548438341863260_779688502_n.jpg"
+	thumbURL="thumbs/555145_548438341863260_779688502_n.jpg"
+	linkURL="images/555145_548438341863260_779688502_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Ręcznie robiona kartka urodzinowa]]></caption>
+  </image>
+  
+    <image imageURL="images/kartka_bob_budowniczy_logo.JPG"
+	thumbURL="thumbs/kartka_bob_budowniczy_logo.JPG"
+	linkURL="images/kartka_bob_budowniczy_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Kartka urodzinowa "Bob Budowniczy"]]></caption>
+  </image>
+  
+    <image imageURL="images/IMG_1522_logo.JPG"
+	thumbURL="thumbs/IMG_1522_logo.JPG"
+	linkURL="images/IMG_1522_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Ubranka na wino na stół weselny]]></caption>
+  </image>
+  <image imageURL="images/IMG_9522_logo.JPG"
+	thumbURL="thumbs/IMG_9522_logo.JPG"
+	linkURL="images/IMG_9522_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Ubranko na wino]]></caption>
+  </image>
+  
+    <image imageURL="images/Czapeczki2.jpg"
+	thumbURL="thumbs/Czapeczki2.jpg"
+	linkURL="images/Czapeczki2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Ubranko na wino i ręcznie robiona kartka]]></caption>
+  </image>
+  <image imageURL="images/IMG_0924.JPG"
+	thumbURL="thumbs/IMG_0924.JPG"
+	linkURL="images/IMG_0924.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Ubranka na ślubne wino]]></caption>
+  </image>
+  
+    <image imageURL="images/IMG_1653_logo.JPG"
+	thumbURL="thumbs/IMG_1653_logo.JPG"
+	linkURL="images/IMG_1653_logo.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Ubranko na świąteczne wino]]></caption>
+  </image>
+  
+  <image imageURL="images/_MG_2790.CR2.jpg"
+	thumbURL="thumbs/_MG_2790.CR2.jpg"
+	linkURL="images/_MG_2790.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Uszatek pilotka (gruba)]]></caption>
+  </image>
+  
+   <image imageURL="images/IMG_7560.JPG"
+	thumbURL="thumbs/IMG_7560.JPG"
+	linkURL="images/IMG_7560.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Modniś beżowa]]></caption>
+  </image>
+  
+  <image imageURL="images/_MG_2403.CR2.jpg"
+	thumbURL="thumbs/_MG_2403.CR2.jpg"
+	linkURL="images/_MG_2403.CR2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Czapeczka Kurczaczek]]></caption>
+  </image>
+
+</simpleviewergallery>
